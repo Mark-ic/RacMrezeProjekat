@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignoriši Visual Studio fajlove
+.vs/
+.vscode/
+.idea/
+
+# Ignoriši obj i bin foldere
+bin/
+obj/

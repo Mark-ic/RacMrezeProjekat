@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marko\\RacMrezeProjekat\\Potapanje_Brodova\\",
+  "WorkspaceRootPath": "C:\\Users\\Katarina\\source\\repos\\RacMrezeProjekat\\Potapanje_Brodova\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|c:\\users\\marko\\racmrezeprojekat\\potapanje_brodova\\potapanje_brodova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|solutionrelative:potapanje_brodova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|c:\\users\\katarina\\source\\repos\\racmrezeprojekat\\potapanje_brodova\\potapanje_brodova\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|solutionrelative:potapanje_brodova\\igrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|c:\\users\\katarina\\source\\repos\\racmrezeprojekat\\potapanje_brodova\\potapanje_brodova\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75195FF-12C3-474C-A097-B1C5F47F7EB9}|Potapanje_Brodova\\Potapanje_Brodova.csproj|solutionrelative:potapanje_brodova\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marko\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Program.cs",
-              "RelativeDocumentMoniker": "Potapanje_Brodova\\Program.cs",
-              "ToolTip": "C:\\Users\\marko\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Program.cs",
-              "RelativeToolTip": "Potapanje_Brodova\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Title": "Igrac.cs",
+              "DocumentMoniker": "C:\\Users\\Katarina\\source\\repos\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Igrac.cs",
+              "RelativeDocumentMoniker": "Potapanje_Brodova\\Igrac.cs",
+              "ToolTip": "C:\\Users\\Katarina\\source\\repos\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Igrac.cs",
+              "RelativeToolTip": "Potapanje_Brodova\\Igrac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:14:05.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Katarina\\source\\repos\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Server.cs",
+              "RelativeDocumentMoniker": "Potapanje_Brodova\\Server.cs",
+              "ToolTip": "C:\\Users\\Katarina\\source\\repos\\RacMrezeProjekat\\Potapanje_Brodova\\Potapanje_Brodova\\Server.cs",
+              "RelativeToolTip": "Potapanje_Brodova\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T10:01:25.881Z",
               "EditorCaption": ""

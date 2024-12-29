@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Potapanje_Brodova
 {
-    internal class Program
+    internal class Server
     {
         static void Main(string[] args)
         {
